@@ -18,6 +18,7 @@ pickle-mixin = "==1.0.2"
 joblib = "==1.4.2"
 parsivar = "*"
 plotly = "*"
+khayyam = "*"
 
 [dev-packages]
 
